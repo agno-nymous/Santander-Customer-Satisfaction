@@ -20,3 +20,17 @@ My detailed approach can be viewed in this [medium](https://medium.com/@ashishth
 | 7. | normal ohe(top 250) xgb | 0.81560 |
 | 8. | log xgb | 0.81131 |
 
+Contents of the Code Files are given below :-
+
+| Code File | Description  | 
+| ----  | --------- |
+| EDA.ipynb    | Exploratory Data Analysis|
+| Feature_Engineering.ipynb    | Feature Engineering|
+| final.ipynb    | Function 1 - takes input X, returns prediction Y,Function 2 - takes input (X,Y) returns evaluation metric (AUC)|
+| Final_ensembling.ipynb    | Final ensembling,stacking models and data interpretation|
+| Modelling_LogOHE.ipynb    | Modelling experiments on Log transformed One Hot Encoded Dataset|
+| Modelling_Log_RE.ipynb   | Modelling experiments on Log transformed Response Encoded Dataset|
+| Modelling_Normal.ipynb  | Modelling experiments on Normal Dataset|
+| Modelling_Normal_OHE.ipynb   | Modelling experiments on Normal One Hot Encoded Dataset|
+| Modelling_Normal_RE.ipynb   | Modelling experiments on Normal Response Encoded Dataset|
+| modelling_logTransformed.ipynb  | Modelling experiments on Log Transformed Dataset|
