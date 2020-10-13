@@ -6,7 +6,7 @@ Customer satisfaction is one of the most important key performance indicators in
 Here I have removed sparse features, features that had high correlation with each other and also features that had low correlation with dependant variable ("TARGET"). I created 6 datasets (created more than 100 features (at least) for the 6 datasets) and applied ***logistic regression, decision trees, random forest, XGBoost and Lightgbm.*** 
 
 
-My detailed approach can be viewed in this [medium](https://medium.com/@ashishthomas7/santander-customer-satisfaction-a-self-case-study-using-python-5776d3f8b060?source=friends_link&sk=2fa9b7734bc9a957fedb9e91fec93d7f) article. 
+My detailed approach can be viewed in this [medium](https://medium.com/@ashishthomas7/santander-customer-satisfaction-a-self-case-study-using-python-5776d3f8b060) article. 
 
 # Results
 | Sl No. | Model | Kaggle Public score (AUC) |
